@@ -13,7 +13,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/lvnstnn" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/lvnstnn" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -23,7 +23,7 @@
 
 ## Commands
 
-start - for stating the bot
+start - for starting the bot
 
 status - bot current status
 
